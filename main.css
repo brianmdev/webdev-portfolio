@@ -1,1 +1,19 @@
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+body {
+  background-color: #000000;
+}
+p {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+.title{
+  position: relative;
+  top: 100px;
+}
+.sidebar {
+  background-color: #3d3d3d;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  width: 20px;
+  position: fixed;
+}
