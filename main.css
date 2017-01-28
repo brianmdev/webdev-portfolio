@@ -18,6 +18,9 @@ p {
   font-size: 10px;
   text-align: center;
 }
+li {
+  color: #ffffff;
+}
 .sidebar {
   background-color: #3d3d3d;
   top: 0px;
